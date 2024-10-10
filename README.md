@@ -32,6 +32,7 @@
             color: #C2185B;
             margin-top: 20px;
         }
+        
     </style>
 </head>
 <body>
@@ -52,6 +53,7 @@ E que a gente possa voltar aqui e ver que os dias só aumentaram.
 <b><p>
 A melhor parte do meu dia é sempre quando você está do meu lado.
 <p>Eu te amo demais muito mesmo, meu amor por você será para sempre sempre.</p>
+    </div>
 <div class="music-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/n5i3QRvPA9Y?si=J4lAouM87zNoz6bT&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
@@ -66,18 +68,24 @@ A melhor parte do meu dia é sempre quando você está do meu lado.
             const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
             const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
             const seconds = Math.floor((diff / 1000) % 60); // Corrigi o cálculo dos segundos
+
             document.getElementById("time-together").innerHTML = 
                 `<b> Estamos juntos há ${years} anos, ${days} dias, ${hours} horas, ${minutes} minutos e ${seconds} segundos.`;
         }
+
         setInterval(updateTimeTogether, 1000); // Atualiza a cada segundo
         updateTimeTogether();
+
         // Alternar fotos a cada 2 segundos
         let currentPhoto = 0;
         const photos = document.querySelectorAll('.photo-gallery img');
         photos[currentPhoto].style.display = 'block';
+
         setInterval(() => {
             photos[currentPhoto].style.display = 'none';
             currentPhoto = (currentPhoto + 1) % photos.length;
             photos[currentPhoto].style.display = 'block';
         }, 2000);
     </script>
+</body>
+</html>
