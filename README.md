@@ -52,7 +52,6 @@ E que a gente possa voltar aqui e ver que os dias só aumentaram.
 <b><p>
 A melhor parte do meu dia é sempre quando você está do meu lado.
 <p>Eu te amo demais muito mesmo, meu amor por você será para sempre sempre.</p>
-    </div>
 <div class="music-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/n5i3QRvPA9Y?si=J4lAouM87zNoz6bT&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
@@ -82,5 +81,3 @@ A melhor parte do meu dia é sempre quando você está do meu lado.
             photos[currentPhoto].style.display = 'block';
         }, 2000);
     </script>
-</body>
-</html>
