@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -57,8 +56,6 @@ A melhor parte do meu dia é sempre quando você está do meu lado.
     </div>
 <div class="music-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/n5i3QRvPA9Y?si=J4lAouM87zNoz6bT&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
-</div>
     <script>
         function updateTimeTogether() {
             const startDate = new Date("2023-10-08T22:30:00"); // Coloque a data de início aqui
@@ -83,10 +80,8 @@ A melhor parte do meu dia é sempre quando você está do meu lado.
         photos[currentPhoto].style.display = 'block';
 
         setInterval(() => {
-            photos[currentPhoto].style.display = 'main';
+            photos[currentPhoto].style.display = 'none';
             currentPhoto = (currentPhoto + 1) % photos.length;
             photos[currentPhoto].style.display = 'block';
         }, 2000);
     </script>
-</body>
-</html>
