@@ -83,7 +83,7 @@ A melhor parte do meu dia é sempre quando você está do meu lado.
         photos[currentPhoto].style.display = 'block';
 
         setInterval(() => {
-            photos[currentPhoto].style.display = 'none';
+            photos[currentPhoto].style.display = 'main';
             currentPhoto = (currentPhoto + 1) % photos.length;
             photos[currentPhoto].style.display = 'block';
         }, 2000);
