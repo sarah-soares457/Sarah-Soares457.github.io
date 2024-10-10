@@ -41,7 +41,7 @@
     <div class="container">
         <h1>Sarah ❤️ Erick</h1>
         <div class="photo-gallery">
-            <img src="file:///C:/Users/Famil/OneDrive/Imagens/Saved%20Pictures/WhatsApp%20Image%202024-10-07%20at%2017.44.08%20(1).jpeg" alt="Foto 1">
+            <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 17.44.08 (1).jpeg" alt="Foto 1">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.21.15.jpeg" alt="Foto 2">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.58.51.jpeg" alt="Foto 3">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 17.44.08 (1).jpeg" alt="Foto 1">
@@ -60,7 +60,6 @@ A melhor parte do meu dia é sempre quando você está do meu lado.
             <iframe width="560" height="315" src="https://www.youtube.com/embed/n5i3QRvPA9Y?si=J4lAouM87zNoz6bT&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 </div>
-    
     <script>
         function updateTimeTogether() {
             const startDate = new Date("2023-10-08T22:30:00"); // Coloque a data de início aqui
