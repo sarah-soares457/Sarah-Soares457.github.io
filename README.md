@@ -41,7 +41,7 @@
     <div class="container">
         <h1>Sarah ❤️ Erick</h1>
         <div class="photo-gallery">
-            <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.21.15 (1).jpeg" alt="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.21.15 (1).jpeg">
+            <img src="file:///C:/Users/Famil/OneDrive/Imagens/Saved%20Pictures/WhatsApp%20Image%202024-10-07%20at%2017.44.08%20(1).jpeg" alt="Foto 1">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.21.15.jpeg" alt="Foto 2">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.58.51.jpeg" alt="Foto 3">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 17.44.08 (1).jpeg" alt="Foto 1">
