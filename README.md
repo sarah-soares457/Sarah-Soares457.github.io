@@ -5,7 +5,7 @@
     <title>I Love You</title>
     
     <style>
-        
+      
         body {
             background-color: #FFEBEE;
             font-family: 'Comic Sans MS', cursive, sans-serif;
@@ -44,7 +44,7 @@
         <h1>Sarah ❤️ Erick</h1>
         
         <div class="photo-gallery">
-            <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.21.15 (1).jpeg" alt="Foto 1">
+            <img src="https://th.bing.com/th?id=OSK.HERO6buRJmAFTQfBPMZByYSIJ3H7k31DrRpFqwN78GgmbTo&w=472&h=280&c=13&rs=2&o=6&oif=webp&pid=SANGAM" alt="Foto 1">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.21.15.jpeg" alt="Foto 2">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.58.51.jpeg" alt="Foto 3">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 17.44.08 (1).jpeg" alt="Foto 1">
