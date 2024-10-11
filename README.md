@@ -1,8 +1,11 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
+    
     <title>I Love You</title>
+    
     <style>
+        
         body {
             background-color: #FFEBEE;
             font-family: 'Comic Sans MS', cursive, sans-serif;
@@ -37,14 +40,11 @@
 </head>
 <body>
     <div class="container">
+        
         <h1>Sarah ❤️ Erick</h1>
+        
         <div class="photo-gallery">
-
-
-
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.21.15 (1).jpeg" alt="Foto 1">
-
-
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.21.15.jpeg" alt="Foto 2">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.58.51.jpeg" alt="Foto 3">
             <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 17.44.08 (1).jpeg" alt="Foto 1">
@@ -53,19 +53,10 @@
         </div>
         <div id="time-together"></div>
         <div class="romantic-text">
-            <p><b>Para você se lembrar de quantos dias se passaram desde da minha melhor decisão... 
-E que a gente possa voltar aqui e ver que os dias só aumentaram.
-<b><p>
-A melhor parte do meu dia é sempre quando você está do meu lado.
-<p>Eu te amo demais muito mesmo, meu amor por você será para sempre sempre.</p>
-
-
-
+            <p><b>Para você se lembrar de quantos dias se passaram desde da minha melhor decisão...E que a gente possa voltar aqui e ver que os dias só aumentaram.<b>A melhor parte do meu dia é sempre quando você está do meu lado.<b>Eu te amo demais muito mesmo, meu amor por você será para sempre sempre.</p>
     </div>
-
-
-
 <div class="music-container">
+    
             <iframe width="560" height="315" src="https://www.youtube.com/embed/n5i3QRvPA9Y?si=J4lAouM87zNoz6bT&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <script>
         function updateTimeTogether() {
