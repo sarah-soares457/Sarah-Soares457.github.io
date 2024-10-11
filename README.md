@@ -44,12 +44,12 @@
         <h1>Sarah ❤️ Erick</h1>
         
         <div class="photo-gallery">
-            <img src="https://th.bing.com/th?id=OSK.HERO6buRJmAFTQfBPMZByYSIJ3H7k31DrRpFqwN78GgmbTo&w=472&h=280&c=13&rs=2&o=6&oif=webp&pid=SANGAM" alt="Foto 1">
-            <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.21.15.jpeg" alt="Foto 2">
-            <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 14.58.51.jpeg" alt="Foto 3">
-            <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 17.44.08 (1).jpeg" alt="Foto 1">
-            <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-07 at 17.44.08.jpeg" alt="Foto 2">
-            <img src="C:\Users\Famil\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2024-10-08 at 12.56.17.jpeg" alt="Foto 3">
+            <img src="foto.jpg1" alt="Foto 1">
+            <img src="foto.jpg2" alt="Foto 2">
+            <img src="foto.jpg3" alt="Foto 3">
+            <img src="foto.jpg4" alt="Foto 1">
+            <img src="foto.jpg5" alt="Foto 2">
+            <img src="foto.jpg6" alt="Foto 3">
         </div>
         <div id="time-together"></div>
         <div class="romantic-text">
