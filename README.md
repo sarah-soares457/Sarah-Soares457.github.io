@@ -53,10 +53,8 @@
         </div>
         <div id="time-together"></div>
         <div class="romantic-text">
-            <b>Para você se lembrar de quantos dias se passaram desde da minha melhor decisão...<p>E que a gente possa voltar aqui e ver que os dias só aumentaram.<p>
-            <p>
+            <b>Para você se lembrar de quantos dias se passaram desde da minha melhor decisão...E que a gente possa voltar aqui e ver que os dias só aumentaram.
             <b>A melhor parte do meu dia é sempre quando você está do meu lado.
-            <p>
             <b>Eu te amo demais muito mesmo, meu amor por você será para sempre sempre.
             
 <div class="music-container">
