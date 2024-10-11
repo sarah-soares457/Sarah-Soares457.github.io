@@ -45,7 +45,7 @@
         
         <div class="photo-gallery">
             <img src="foto.jpg1.jpeg" alt="Foto 1">
-            <img src="foto.jpg2" alt="Foto 2">
+            <img src="foto.jpg2.jpeg" alt="Foto 2">
             <img src="foto.jpg3" alt="Foto 3">
             <img src="foto.jpg4" alt="Foto 4">
             <img src="foto.jpg5" alt="Foto 5">
